@@ -6,6 +6,7 @@ public class Variables {
     String myName = "Hassan";
     int my_age = 0;
     my_age = 26;
+    final int LuckyNumber = 7;
     System.out.println(myName);
     System.out.println(my_age);
   }
