@@ -12,3 +12,10 @@ public class HelloWorld {
 
   }
 }
+
+/*
+ * 2 .Build & Compile :
+ *  - javac HelloWorld.java -> Build
+ *  - java HelloWorld -> Compile
+ *  - output : Hello, World! 
+ */
