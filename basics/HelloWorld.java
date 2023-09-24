@@ -35,4 +35,16 @@ public class HelloWorld {
  * Octale      : 8  -> 0 à 7 : 07xxxx
  * Hexadécimale: 16 -> 0 è F : 0Xxxxx
  * ------------------------------------------------------------
+ * 5  .Variables et Constantes :
+ * Régles à respecte lors de la declaration des variables ou bien des constantes
+ * +  pas des caractéres spéciaux
+ * +  pas d'espaces
+ * +  commence par une letter ou underscore '_'
+ * -  camel case : uneVariable
+ * -  pascal case: UneVariable
+ * -  snake case : une_variable
+ * 
+ * Exemples :
+ * int ageUser = 26;
+ * System.out.println(ageUser); -> 26
  */
