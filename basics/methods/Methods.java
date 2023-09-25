@@ -1,7 +1,8 @@
 package methods;
 
 public class Methods {
-  // Basic method
+  
+  // Basic method:
   static int timesTwo(int x) {
     return x * 2;
   }
